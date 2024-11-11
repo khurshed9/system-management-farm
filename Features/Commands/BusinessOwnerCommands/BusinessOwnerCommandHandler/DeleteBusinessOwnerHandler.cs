@@ -1,11 +1,11 @@
 ﻿using MediatR;
 using SystemManagementFactory.Domain.Entities;
 using SystemManagementFactory.Extensions.PatternResultExtensions;
-using SystemManagementFactory.Features.Commands.BusinessOwnerCommand.BusinessOwnerCommandRequest;
+using SystemManagementFactory.Features.Commands.BusinessOwnerCommands.BusinessOwnerCommandRequest;
 using SystemManagementFactory.Repositories.BaseRepository;
 using SystemManagementFactory.UOW;
 
-namespace SystemManagementFactory.Features.Commands.BusinessOwnerCommand.BusinessOwnerCommandHandler;
+namespace SystemManagementFactory.Features.Commands.BusinessOwnerCommands.BusinessOwnerCommandHandler;
 
 public class DeleteBusinessOwnerHandler(IUnitOfWork<BusinessOwner> unitOfWork) : IRequestHandler<DeleteBusinessOwnerRequest, BaseResult>
 {

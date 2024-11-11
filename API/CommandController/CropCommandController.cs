@@ -1,7 +1,6 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using SystemManagementFactory.Extensions.PatternResultExtensions;
-using SystemManagementFactory.Features.Commands.BusinessOwnerCommand.BusinessOwnerCommandRequest;
 using SystemManagementFactory.Features.Commands.CropCommmands.BusinessOwnerCommandRequest;
 
 namespace SystemManagementFactory.API.CommandController;

@@ -1,5 +1,5 @@
 ﻿using SystemManagementFactory.Domain.Entities;
-using SystemManagementFactory.Features.Commands.BusinessOwnerCommand.BusinessOwnerCommandRequest;
+using SystemManagementFactory.Features.Commands.BusinessOwnerCommands.BusinessOwnerCommandRequest;
 using SystemManagementFactory.Features.Queries.BusinessOwnerQueries.BusinessOwnerViewModels;
 
 namespace SystemManagementFactory.Extensions.Mapper;

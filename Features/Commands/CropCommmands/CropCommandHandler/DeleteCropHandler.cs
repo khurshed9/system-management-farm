@@ -1,7 +1,6 @@
 ﻿using MediatR;
 using SystemManagementFactory.Domain.Entities;
 using SystemManagementFactory.Extensions.PatternResultExtensions;
-using SystemManagementFactory.Features.Commands.BusinessOwnerCommand.BusinessOwnerCommandRequest;
 using SystemManagementFactory.Features.Commands.CropCommmands.BusinessOwnerCommandRequest;
 using SystemManagementFactory.Repositories.BaseRepository;
 using SystemManagementFactory.UOW;

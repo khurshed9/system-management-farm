@@ -4,10 +4,9 @@ using SystemManagementFactory.DB;
 using SystemManagementFactory.Domain.Entities;
 using SystemManagementFactory.Extensions.Mapper;
 using SystemManagementFactory.Extensions.PatternResultExtensions;
-using SystemManagementFactory.Features.Commands.BusinessOwnerCommand.BusinessOwnerCommandRequest;
-using SystemManagementFactory.Features.Commands.TransactionCommands.TransactionCommandRequest;
+using SystemManagementFactory.Features.Commands.BusinessOwnerCommands.BusinessOwnerCommandRequest;
 
-namespace SystemManagementFactory.Features.Commands.BusinessOwnerCommand.BusinessOwnerCommandHandler;
+namespace SystemManagementFactory.Features.Commands.BusinessOwnerCommands.BusinessOwnerCommandHandler;
 
 public class UpdateBusinessOwnerHandler(AppCommandDbContext context) : IRequestHandler<UpdateBusinessOwnerRequest,BaseResult>
 {

@@ -110,3 +110,4 @@ C:\Users\VICTUS\Desktop\TheEndC#\SystemManagementFarm\obj\Debug\net8.0\refint\Sy
 C:\Users\VICTUS\Desktop\TheEndC#\SystemManagementFarm\obj\Debug\net8.0\SystemManagementFactory.pdb
 C:\Users\VICTUS\Desktop\TheEndC#\SystemManagementFarm\obj\Debug\net8.0\SystemManagementFactory.genruntimeconfig.cache
 C:\Users\VICTUS\Desktop\TheEndC#\SystemManagementFarm\obj\Debug\net8.0\ref\SystemManagementFactory.dll
+C:\Users\VICTUS\Desktop\TheEndC#\SystemManagementFarm\obj\Debug\net8.0\SystemManagementFactory.sourcelink.json
